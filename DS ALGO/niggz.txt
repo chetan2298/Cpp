@@ -1,0 +1,51 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	
+	int t;
+	cin>>t;
+	do{
+	  	    int D;
+	   char S[D]; 		//this is string
+	   for(int i=0;i<D;i++)
+	   {
+	        cin.get(S, D); //reads
+	       
+	   }
+	   for(i=0;i<D;i++)
+{
+    
+    if(S[i]=='A') //if one day he is absent 
+    do{
+        S[i]='P'; //put proxy 
+    }while(A());//but on this condition
+   
+}	  
+int A() 		//now there was 2,3 condititions he has given
+padhle   ques 
+{now what i dont understand is what happened to thw last absent this one
+are u even there i m reading ques
+I wanna access you ;)
+split the screena dn read it 
+    int d;
+    if(d-1 && d-2=='P')
+    {
+        d=P;
+    }
+
+}
+	RWELL LOOK AWAY
+	    
+	}while(t--);
+	
+	// So all is well, yu saw your ping right
+ping min should be 0, max-10 so its good . gurgaon is up and runningn
+ok I have another emergency call, mayday mayday mayday
+bye
+it was nice servicing u
+call me another time for a special service sir
+always at yur disposal
+Anoushka wires :)
+ 0;
+}
