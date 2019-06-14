@@ -1,6 +1,7 @@
-#include<iostream>
+#include<iostream.h>
 using namespace std;
-int fun(int n)
+int main()
 {
+    std:: cout<<"hello boiiiiiiiiii";
 
 }
